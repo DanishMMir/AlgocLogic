@@ -7,8 +7,8 @@
 				<div class="swiper-slide dark" style="background-image: url('images/slider/1.jpg');">
 					<div class="container clearfix">
 						<div class="slider-caption slider-caption-center">
-							<h2 data-caption-animate="fadeInUp">Welcome to Canvas</h2>
-							<p data-caption-animate="fadeInUp" data-caption-delay="200">Create just what you need for your Perfect Website. Choose from a wide range of Elements &amp; simply put them on our Canvas.</p>
+							<h2 data-caption-animate="fadeInUP">AlgocLogic</h2>
+							<p data-caption-animate="fadeInDown" data-caption-delay="200">Where Algorithms meet Logic</p>
 						</div>
 					</div>
 				</div>
@@ -21,8 +21,8 @@
 					</div>
 					<div class="video-wrap">
 						<video poster="images/videos/explore.jpg" preload="auto" loop autoplay muted>
-							<source src='images/videos/explore.mp4' type='video/mp4' />
-							<source src='images/videos/explore.webm' type='video/webm' />
+<!--							<source src='images/videos/explore.mp4' type='video/mp4' />-->
+<!--							<source src='images/videos/explore.webm' type='video/webm' />-->
 						</video>
 						<div class="video-overlay" style="background-color: rgba(0,0,0,0.55);"></div>
 					</div>

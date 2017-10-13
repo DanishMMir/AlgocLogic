@@ -49,8 +49,9 @@
 		<section id="content">
 
 			<!-- <div class="content-wrap"> -->
-
-				<?php include('pages/about.php'); ?>
+				<div id="about">
+					<!-- populated with js -->
+				</div>
 
 				<?php include('pages/work.php'); ?>
 

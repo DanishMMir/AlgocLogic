@@ -1,3 +1,14 @@
+// Dynamically Loads Pages
+$(document).ready(function () {
+	setTimeout(function(){
+        $.ajax({
+            url:'pages/about.php',
+            success: function (html) {
+                $('#about').html(html);
+            }
+        });
+    },2000);    
+});
 
 $('#template-contactform-submit').click(function(){
 	var valid=$("#template-contactform").valid();

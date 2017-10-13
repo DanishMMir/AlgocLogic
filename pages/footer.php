@@ -17,14 +17,14 @@
 
 						<div style="background: url('images/world-map.png') no-repeat center center; background-size: 100%;">
 							<address>
-								<strong>Headquarters:</strong><br>
-								795 Folsom Ave, Suite 600<br>
-								San Francisco, CA 94107<br>
+								<strong>Office:</strong><br>
+								Srinagar, J&K<br>
+								India 190001<br>
 							</address>
 							<div>
 							<abbr title="Phone Number"><strong>Phone:</strong></abbr> (91) 8547 632521<br>
 							<abbr title="Fax"><strong>Fax:</strong></abbr> (91) 11 4752 1433<br>
-							<abbr title="Email Address"><strong>Email:</strong></abbr> info@canvas.com
+							<abbr title="Email Address"><strong>Email:</strong></abbr> info@algoclogic.com
 						</div>	
 						</div>
 
@@ -147,7 +147,7 @@
 								<i class="icon-twitter"></i>
 								<i class="icon-twitter"></i>
 							</a>
-							<a href="#"><small style="display: block; margin-top: 3px;"><strong>Subscribe</strong><br>to RSS Feeds</small></a>
+							<a href="#"><small style="display: block; margin-top: 3px;"><strong>Follow us</strong><br>on Twitter</small></a>
 						</div>
 
 					</div>
@@ -166,7 +166,7 @@
 		<div class="container clearfix">
 
 			<div class="col_half">
-				Copyrights &copy; <?php echo date('Y'); ?> All Rights Reserved by Canvas Inc.<br>
+				Copyrights &copy; <?php echo date('Y'); ?> All Rights Reserved by AlgocLogic Inc.<br>
 				<div class="copyright-links"><a href="#">Terms of Use</a> / <a href="#">Privacy Policy</a></div>
 			</div>
 
@@ -215,7 +215,7 @@
 
 				<div class="clear"></div>
 
-				<i class="icon-envelope2"></i> info@canvas.com <span class="middot">&middot;</span> <i class="icon-headphones"></i> +91-11-6541-6369 <span class="middot">&middot;</span> <i class="icon-skype2"></i> CanvasOnSkype
+				<i class="icon-envelope2"></i> info@algoclogic.com <span class="middot">&middot;</span> <i class="icon-headphones"></i> +91-11-6541-6369 <span class="middot">&middot;</span> <i class="icon-skype2"></i> AlgocLogicOnSkype
 			</div>
 
 		</div>
