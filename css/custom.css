@@ -1,0 +1,8 @@
+.error{
+	margin-top: 5px;
+	color: #E42C3E;
+	border-color: #E42C3E;
+}
+.hide-me{
+	display: none;
+}
